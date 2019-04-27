@@ -5,4 +5,4 @@ xml中信息很多，那么怎么操作才能获取客户所需的数据呢，�
 或者单独查看XML文件，然后一个一个去拷贝，那样得弄到什么时候。不过系统已经为我们作了许多工作，<br>
 这里只需要针对packags.xml进行处理即可。这里的思路是将xml中数据通过pullParser保存<br>
 到所创建的表中，然后将各个表中数据通过视图方式集合呈现出客户所需要的最终数据。<br>
-<div align=center><img width="300" height="600" src="https://github.com/xl040301/GetAppInfo/blob/master/screenshot/shot.png"/></div>
+<div align=center><img width="800" height="600" src="https://github.com/xl040301/GetAppInfo/blob/master/screenshot/shot.png"/></div>
